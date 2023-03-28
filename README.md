@@ -5,7 +5,7 @@ I am experienced in Python, developing Full Stack Applications, <br>Business Pro
  - Mainframe Automation using IBM Personal Communications Emulator
  - Integration of REST/SOAP Web Services in Power Automate Cloud
  - Email, Excel Automations to enhance efficiency and reduce manual efforts
- - Designed Business Rules in Service-now and integrated them with Power automate REST end point
+ - Designed Business Rules in Service-now and integrated them with Power automate REST end point URLS
 
 
 ## 🌐 Socials:
