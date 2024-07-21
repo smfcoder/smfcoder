@@ -7,6 +7,7 @@ I am experienced in Python, developing Full Stack Applications, <br>Business Pro
  - Integration of REST/SOAP Web Services in Power Automate Cloud
  - Email, Excel Automation to enhance efficiency and reduce manual efforts
  - Designed Business Rules in Service-now and integrated them with Power automate REST endpoint URLS
+ - SAP Automation using Power Automate Desktop
 
 
 ## 🌐 Socials:
