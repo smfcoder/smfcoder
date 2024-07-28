@@ -5,7 +5,7 @@ I am experienced in developing Python Full Stack Applications, Intelligent Autom
  - Web Scrapping (Data extraction from web applications, XML responses)
  - Mainframe Automation in IBM Personal Communications Emulator using Power Automate Desktop
  - Integration of REST/SOAP Web Services in Power Automate Cloud
- - Email, MS Excel, API Automation to enhance efficiency and reduce manual efforts
+ - Email, MS Excel, API Automation using Power Automate and Python to enhance efficiency and reduce manual efforts
  - Designed Business Rules in Service-now and integrated them with Power automate REST endpoint URLs
  - SAP Automation using Power Automate Desktop
 
