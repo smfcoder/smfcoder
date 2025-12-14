@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am experienced in developing Python Full Stack Applications, Intelligent Automation and Business Process Automation. Hands-on experience in Python, Power Automate, Robotic Process Automation (RPA), Business Process Automation (BPA), React JS, Database Management(Oracle, MSSQL, SQLite, MYSQL) and Data Visualization.<br>Designing automated solutions for complex business operations
+Full Stack Application Developer and Automation Engineer skilled in Python and RPA, specialized in building high-quality, scalable software solutions that drive operational efficiency through intelligent automation.<br>Designing automated solutions for complex business operations
  - Business Process Automation using  Microsoft Power Automate. Automate the complex, time consuming processes using a combination of Power Automate Cloud and RPA
  - Developed REST API using Python Flask
  - Python Automation (Automated REST APIs, Remote Servers Health Checkups, Services/Process status, Web Applications)
