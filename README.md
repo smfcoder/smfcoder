@@ -20,8 +20,4 @@ Full Stack Application Developer and Automation Engineer skilled in Python and R
 # 📈 GitHub Activity Graph
 [![smfcoder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smfcoder&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Github Summary
-# 📊 GitHub Stats
-![](./profile-summary-cards/profile-summary-card-output/dark/0-profile-details.svg)
-![](./profile-summary-cards/profile-summary-card-output/dark/1-repo-languages.svg)
-![](./profile-summary-cards/profile-summary-card-output/dark/2-most-commit-language.svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Automation+Expert;Always+Learning)](https://git.io/typing-svg)
