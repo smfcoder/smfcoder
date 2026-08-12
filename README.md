@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Automation+Expert;Always+Learning)](https://git.io/typing-svg)
+
 # 💫 About Me:
 Full Stack Application Developer and Automation Engineer skilled in Python and RPA, specialized in building high-quality, scalable software solutions that drive operational efficiency through intelligent automation.<br>Designing automated solutions for complex business operations
  - Business Process Automation using  Microsoft Power Automate. Automate the complex, time consuming processes using a combination of Power Automate Cloud and RPA
@@ -20,4 +22,5 @@ Full Stack Application Developer and Automation Engineer skilled in Python and R
 # 📈 GitHub Activity Graph
 [![smfcoder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smfcoder&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer;Automation+Expert;Always+Learning)](https://git.io/typing-svg)
+# 🐍 My Contribution Graph
+![Snake animation](https://github.com/smfcoder/smfcoder/blob/output/github-snake-dark.svg)
