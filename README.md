@@ -22,7 +22,4 @@ Full Stack Application Developer and Automation Engineer skilled in Python and R
 # 📈 GitHub Activity Graph
 [![smfcoder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=smfcoder&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,linux,docker,grafana,prometheus,powershell,github&theme=dark)](https://skillicons.dev)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Building+Agentic+AI+Systems;Python+%26+Power+Platform+Expert;Designing+Orchestration+Layers;Exploring+Docker+%26+Grafana)](https://git.io/typing-svg)
+![Animated Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Shreyas&fontSize=60&fontAlignY=40&desc=Automation%20%26%20Full%20Stack%20Developer&descAlignY=60&descSize=25)
